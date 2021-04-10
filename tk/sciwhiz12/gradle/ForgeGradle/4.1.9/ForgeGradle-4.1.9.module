@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "net.minecraftforge.gradle",
+    "group": "tk.sciwhiz12.gradle",
     "module": "ForgeGradle",
     "version": "4.1.9",
     "attributes": {
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "djjzkufcmnf3zmy73bbzl2uxsa"
+      "buildId": "xxkcj2lwkrgxnjgnatv2bodrpy"
     }
   },
   "variants": [

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>net.minecraftforge.gradle</groupId>
+  <groupId>tk.sciwhiz12.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
   <versioning>
     <latest>4.1.9</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>4.1.9</version>
     </versions>
-    <lastUpdated>20210410120825</lastUpdated>
+    <lastUpdated>20210410125347</lastUpdated>
   </versioning>
 </metadata>

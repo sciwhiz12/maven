@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.minecraftforge.gradle</groupId>
+  <groupId>tk.sciwhiz12.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
   <version>4.1.9</version>
   <dependencies>
