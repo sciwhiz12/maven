@@ -5,31 +5,52 @@
   <version>4.2.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20210415.054016</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20210415.145729</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20210415054016</lastUpdated>
+    <lastUpdated>20210415145729</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>module</extension>
-        <value>4.2.0-20210415.054016-1</value>
-        <updated>20210415054016</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>4.2.0-20210415.054016-1</value>
-        <updated>20210415054016</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>4.2.0-20210415.054016-1</value>
-        <updated>20210415054016</updated>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>4.2.0-20210415.054016-1</value>
-        <updated>20210415054016</updated>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module.asc</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar.asc</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar.asc</extension>
+        <value>4.2.0-20210415.145729-2</value>
+        <updated>20210415145729</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
