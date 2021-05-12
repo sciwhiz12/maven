@@ -1,0 +1,175 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "tk.sciwhiz12.gradle",
+    "module": "crucible",
+    "version": "4.2.0-j16-poc-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.9",
+      "buildId": "y4lt2r765na4tgxg4ko7cghtqm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "crucible-4.2.0-j16-poc-SNAPSHOT.jar",
+          "url": "crucible-4.2.0-j16-poc-SNAPSHOT.jar",
+          "size": 418747,
+          "sha512": "f58a784456adf5d49c10bbdca596c161d82286141b1f770b124c21b7a3e83a2f2078fa93e44c70a6aad621d95e0819440c02c5a1d09a6c1e1c25f72007315983",
+          "sha256": "c16c598b34fdffc710a487c5bd7d9370754dee036af24ad1d838c89a54ba3c13",
+          "sha1": "c774ac47a7e42cdd55dd958f7a0b21b8af9760fd",
+          "md5": "f5d298b117a1b535b7ee2e0c1234311b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.8.0"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1-jre"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "de.siegmar",
+          "module": "fastcsv",
+          "version": {
+            "requires": "2.0.0"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "artifactural",
+          "version": {
+            "requires": "2.0.3"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.maven",
+          "module": "maven-artifact",
+          "version": {
+            "requires": "3.6.3"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "srgutils",
+          "version": {
+            "requires": "0.4.1"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "DiffPatch",
+          "version": {
+            "requires": "2.0.5"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "DiffPatch",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "all"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "crucible-4.2.0-j16-poc-SNAPSHOT.jar",
+          "url": "crucible-4.2.0-j16-poc-SNAPSHOT.jar",
+          "size": 418747,
+          "sha512": "f58a784456adf5d49c10bbdca596c161d82286141b1f770b124c21b7a3e83a2f2078fa93e44c70a6aad621d95e0819440c02c5a1d09a6c1e1c25f72007315983",
+          "sha256": "c16c598b34fdffc710a487c5bd7d9370754dee036af24ad1d838c89a54ba3c13",
+          "sha1": "c774ac47a7e42cdd55dd958f7a0b21b8af9760fd",
+          "md5": "f5d298b117a1b535b7ee2e0c1234311b"
+        }
+      ]
+    }
+  ]
+}
