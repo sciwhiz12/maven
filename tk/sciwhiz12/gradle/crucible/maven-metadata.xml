@@ -3,11 +3,12 @@
   <groupId>tk.sciwhiz12.gradle</groupId>
   <artifactId>crucible</artifactId>
   <versioning>
-    <latest>4.2.0-j16-poc-SNAPSHOT</latest>
+    <latest>4.2.0-gradle7-SNAPSHOT</latest>
     <versions>
       <version>4.2.0-SNAPSHOT</version>
       <version>4.2.0-j16-poc-SNAPSHOT</version>
+      <version>4.2.0-gradle7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210512214943</lastUpdated>
+    <lastUpdated>20210515023302</lastUpdated>
   </versioning>
 </metadata>
